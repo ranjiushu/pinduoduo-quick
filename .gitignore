@@ -1,6 +1,7 @@
 # Build output
 build/
 *.apk
+.gradle/
 
 # IDE
 .idea/
