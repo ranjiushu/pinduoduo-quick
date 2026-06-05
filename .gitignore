@@ -1,7 +1,10 @@
 # Build output
 build/
-*.apk
 .gradle/
+
+# Ignore APKs in build directory, but keep released APKs
+*.apk
+!apk/*.apk
 
 # IDE
 .idea/
