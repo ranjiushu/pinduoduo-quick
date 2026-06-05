@@ -1,4 +1,4 @@
-# 取快递
+# 快取
 
 一键跳转拼多多快递取件身份码页面的安卓快捷工具。
 
@@ -6,7 +6,7 @@
 
 ## 用法
 
-1. 从 [`apk/`](apk/) 目录下载最新 APK 并安装
+1. 从 [Releases](https://github.com/ranjiushu/pinduoduo-quick/releases) 下载最新 `kuaiqu-v*.apk` 并安装
 2. 点击图标
 3. 自动跳转到拼多多快递身份码页面
 
@@ -18,7 +18,7 @@
 ./build.sh
 ```
 
-APK 输出路径：`build/apk/app.aligned.apk`，发布版在 [`apk/`](apk/) 目录。
+APK 输出路径：`build/apk/app.aligned.apk`
 
 ## 技术细节
 

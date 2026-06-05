@@ -65,9 +65,9 @@ jarsigner -sigalg SHA256withRSA -digestalg SHA-256 \
     -storepass android -keypass android \
     app.aligned.apk androiddebugkey
 
-# 复制到 MT2
-cp app.aligned.apk "/storage/emulated/0/MT2/apks/取快递.apk"
+# 复制到 MT2（改名快取）
+cp app.aligned.apk "/storage/emulated/0/MT2/apks/快取.apk"
 
 echo ""
 echo "===== 构建完成 ====="
-echo "APK: /storage/emulated/0/MT2/apks/取快递.apk"
+echo "APK: /storage/emulated/0/MT2/apks/快取.apk"
