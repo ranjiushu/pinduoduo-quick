@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">快取</string>
     <string name="about_title">关于快取</string>
-    <string name="about_desc">一键跳转拼多多快递取件身份码页面的安卓快捷工具。</string>
+    <string name="about_desc">如你所愿，这是一个能够让拼多多身份码变得触手可及的工具，一次点击就能直达「取快递-扫码亮灯」页面，减少了繁琐的扫码步骤。欢迎使用「快取」，助您在取快递时能够更加从容。</string>
     <string name="about_author">作者：冉旧舒</string>
     <string name="about_github">GitHub 仓库</string>
     <string name="about_github_url">https://github.com/ranjiushu/pinduoduo-quick</string>
