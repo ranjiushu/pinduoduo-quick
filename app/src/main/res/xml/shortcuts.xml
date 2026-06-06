@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="about"
+        android:enabled="true"
+        android:icon="@drawable/ic_info"
+        android:shortcutShortLabel="@string/shortcut_about_label"
+        android:shortcutLongLabel="@string/about_title">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.example.pinduoduo.quick"
+            android:targetClass="com.example.pinduoduo.quick.AboutActivity" />
+    </shortcut>
+</shortcuts>

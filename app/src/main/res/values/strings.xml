@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">快取</string>
+    <string name="about_title">关于快取</string>
+    <string name="about_desc">一键跳转拼多多快递取件身份码页面的安卓快捷工具。</string>
+    <string name="about_author">作者：冉旧舒</string>
+    <string name="about_github">GitHub 仓库</string>
+    <string name="about_github_url">https://github.com/ranjiushu/pinduoduo-quick</string>
+    <string name="about_version">版本 1.0</string>
+    <string name="shortcut_about_label">关于</string>
 </resources>

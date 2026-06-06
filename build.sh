@@ -32,7 +32,8 @@ javac -encoding UTF-8 -source 1.8 -target 1.8 \
     -classpath $PLATFORM/android.jar \
     -d build/obj \
     build/gen/com/example/pinduoduo/quick/R.java \
-    app/src/main/java/com/example/pinduoduo/quick/MainActivity.java
+    app/src/main/java/com/example/pinduoduo/quick/MainActivity.java \
+    app/src/main/java/com/example/pinduoduo/quick/AboutActivity.java
 
 # 4. DEX
 echo "[4/7] DEX 转换..."
